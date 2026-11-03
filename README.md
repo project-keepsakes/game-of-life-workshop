@@ -2,7 +2,7 @@
 
 A test-first Conway's Game of Life in vanilla JavaScript, with a C# companion engine held to the same tests.
 
-[Try Game of Life live](https://antunishdpursuit.github.io/game-of-life-workshop/)
+[Try Game of Life live](https://project-keepsakes.github.io/game-of-life-workshop/)
 
 The page runs entirely in the browser. It does not require an account, backend, build step or API key.
 
